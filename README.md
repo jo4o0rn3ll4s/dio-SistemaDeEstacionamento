@@ -8,7 +8,7 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela exp
 
 - Lógica de Programação e POO;
 
-- -Conhecimentos Básico(.NET, Git, GitHub);
+- Conhecimentos Básico(.NET, Git, GitHub);
 
 - Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
